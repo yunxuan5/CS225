@@ -1,0 +1,6 @@
+Vertex Idx	Current Accumulated Length (km)
+6666	 	0
+6665	 	1.864970
+6664	 	1.912990
+
+ total length:	1.912990
